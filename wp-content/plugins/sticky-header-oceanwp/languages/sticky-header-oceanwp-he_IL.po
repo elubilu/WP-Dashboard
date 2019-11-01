@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky Header OceanWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-24 20:06+0000\n"
+"PO-Revision-Date: 2018-09-24 20:08+0000\n"
+"Last-Translator: admin <junk@script.co.il>\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: sticky-header-oceanwp.php:46
+msgid "Sticky Header"
+msgstr "סטיקי הדר (תפריט צף)"
+
+#: sticky-header-oceanwp.php:75
+msgid "Select your sticky header style"
+msgstr "בחרו סוג תפריט צף"
+
+#: sticky-header-oceanwp.php:77
+msgid "Style"
+msgstr "סגנון"
+
+#: sticky-header-oceanwp.php:82
+msgid "Save"
+msgstr "שמירה"
+
+#. Name of the plugin
+msgid "Sticky Header OceanWP"
+msgstr "סטיקי הדר - אושן"
+
+#. Description of the plugin
+msgid ""
+"Want a new fresh sticky header like everyone else, with our plugin you can "
+"get the best and better sticky header that you ever seen"
+msgstr ""
+"רוצים לשדרג הדר מרענן כמו בכל האתרים החדשים, תפריט צף או תפריט צף עם לוגו "
+"מתכווץ.\n"
+"לניהול הפלאגין תחת הלשונית הגדרות >> סטיקי הדר"
+
+#. Author of the plugin
+msgid "Oren Hahiashvili"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.script.co.il"
+msgstr ""

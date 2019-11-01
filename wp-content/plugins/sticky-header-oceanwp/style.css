@@ -1,0 +1,30 @@
+#site-logo-inner, #site-header-inner {
+    transition: all .3s ease-in-out;
+}
+#site-header #site-logo #site-logo-inner a img {
+	transition: all .3s ease-in-out;
+}
+.fixed_sticky_active #site-header #site-logo #site-logo-inner a img{
+	max-height: 50px!important;
+}
+@media(min-width: 960px){
+    .fixed_sticky_active #site-logo-inner{
+        height: 74px!important;
+    }
+    .fixed_sticky_active #site-navigation-wrap .dropdown-menu >li >a {
+        line-height: 74px!important;
+        display: inline-block!important;
+    }
+    .fixed_sticky_active #site-header {
+        opacity: 1;
+    }
+}
+
+@media(max-width: 480px){
+    .fixed_sticky_active #site-header {
+        top: 0;
+    }
+    .fixed_sticky_active #site-header-inner {
+    	padding: 0;
+    }
+}
